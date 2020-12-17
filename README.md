@@ -2,13 +2,14 @@
 
 This is a Simulation Game made as my culminating project for my ICS4U Course in my final year of highschool.
 
-The Simulation consists of two types of characters fighting for survival; Humans and Zombies.
-
-Men and Women age and repopulate, surviving off food from chests and water from ponds. They can die from thirst, hunger, old age, or can gte killed by a Zombie.
-
+It consists of two types of characters fighting for survival; Humans and Zombies.
+Men and Women age and repopulate, surviving off food from chests and water from ponds. They can die from thirst, hunger, old age, or can get killed by a Zombie.
 Zombies survive by eating Humans and can die from thirst.
-
 Both groups tend to move in groups, and try to battle for survival.
+
+Begin the Simulation by pressing the 'Simulate' button!
+Press the 'Clear' button to customize and create your own playing field using the 'God Controls'!
+a
 
 
 ![Simulation-Gameplay](https://github.com/SaadMukhtar/Simulation-Game/blob/master/Simulation-Gameplay.png)

@@ -174,7 +174,6 @@ class Map {
         humanCap = grid.length*grid[0].length/100*8;
         zombieCap = grid.length*grid[0].length/100*8/4;
         resourceMin = humanCap/9;
-        System.out.println(humanCap + " " + zombieCap);
 
         // Iterate through 2D array of Entities
         for (int row = 0; row < grid.length; row++) {
