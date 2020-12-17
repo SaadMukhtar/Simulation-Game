@@ -14,7 +14,12 @@ Press the 'Clear' button to customize and create your own playing field using th
 
 ![Simulation-Gameplay](https://github.com/SaadMukhtar/Simulation-Game/blob/master/Simulation-Gameplay.png)
 
-More Details:
+## Instructions
+- Download Java files and images and keep them in one folder.
+- Run Simulation.java and enter source path for the folder
+- Enjoy!
+
+## More Details:
 
 Human Character:
 - If there is a zombie nearby, there is a 90% chance of a fight occuring
