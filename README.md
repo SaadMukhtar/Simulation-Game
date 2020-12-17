@@ -9,7 +9,7 @@ Both groups tend to move in groups, and try to battle for survival.
 
 Begin the Simulation by pressing the 'Simulate' button!
 Press the 'Clear' button to customize and create your own playing field using the 'God Controls'!
-a
+
 
 
 ![Simulation-Gameplay](https://github.com/SaadMukhtar/Simulation-Game/blob/master/Simulation-Gameplay.png)
