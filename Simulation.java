@@ -653,8 +653,8 @@ class Simulation extends JFrame implements ActionListener, MouseListener, MouseM
     public static void main (String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter source: (C:\\Users\\syeds\\Desktop\\ICS4U\\Humans Vs Zombies\\src\\) :");
-        colony.source = "/home/prodigy/Personal Projects/HumanVZombie/";
+        System.out.print("Enter source: (/home/prodigy/Personal Projects/Simulation-Game/) :");
+        colony.source = sc.nextLine();
 
         Simulation window = new Simulation ();
         window.setVisible (true);
