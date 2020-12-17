@@ -24,9 +24,7 @@ class Map {
     boolean zombies, humans, SupplyDrops, water, freeSpace, mate, zombieMate;
     boolean allowReviveHuman = true, allowReviveZombie = true, allowReviveResource= true, populationCap = true;
     // Source for pictures depending on user
-    String source = "C:\\Users\\syeds\\Desktop\\ICS4U\\Humans Vs Zombies\\src\\";
-    //String source = "res\\";
-    //String source = "src\";
+    String source = "";
 
 
     /* Constructor:
